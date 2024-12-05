@@ -1,12 +1,8 @@
 # Format Date Advanced
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
-
-Time flies, standards change. Let's get rid of the routine of changing the date format.
-
 ## Task description:
 
-Create a `formatDate` function that accepts the `date` string,
+Created a `formatDate` function that accepts the `date` string,
 the old `fromFormat` array and the new `toFormat` array. Function returns given date in new format.
 
 The function can change a separator, reorder the date parts of convert a year from `4` digits to `2` digits and back.
